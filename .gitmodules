@@ -1,0 +1,3 @@
+[submodule "Assets/CommonLib"]
+	path = Assets/CommonLib
+	url = https://github.com/IkadaiYuya/CommonLib.git
