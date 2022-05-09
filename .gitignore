@@ -1,0 +1,9 @@
+*.csproj
+*.sln
+*.suo
+Assets/Template/
+Library/
+Logs/
+obj/
+.vsconfig
+Assets/Template.meta
